@@ -1,0 +1,8 @@
+{
+  "name": "Medocs",
+  "short_name": "Medocs",
+  "start_url": "/Medocs/docs/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
