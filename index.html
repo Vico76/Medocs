@@ -35,6 +35,12 @@
 }
 </script>
 </head>
+  <script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("service-worker.js");
+  }
+</script>
+
   <body class="bg-gray-50 text-gray-900 select-none touch-manipulation">
     <div id="root"></div>
   </body>
